@@ -1,0 +1,15 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# VIM
+.swp
+.sw
+.swo
+Session.vim
+tags
+
+faiss
+
